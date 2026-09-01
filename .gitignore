@@ -1,0 +1,47 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.local
+
+# Python virtual environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Python packaging
+*.egg-info/
+build/
+dist/
+.eggs/
+
+# Logs and local runtime files
+*.log
+logs/
+
+# Frontend dependencies and build output
+node_modules/
+frontend/dist/
+frontend/dist-ssr/
+
+# Machine-learning data and generated model artifacts
+backend/dataset/
+backend/model/*.pkl
+backend/model/*.joblib
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.suo
+*.swp
+*.swo
