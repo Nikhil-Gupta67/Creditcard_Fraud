@@ -93,13 +93,13 @@ The script evaluates a logistic regression model and saves the result to `backen
 
 ## API Endpoints
 
-| Method | Endpoint | Description |
-| --- | --- | --- |
-| `GET` | `/` | API status |
-| `GET` | `/health` | Reports API and model status |
-| `POST` | `/signup` | Temporarily accepts a new user registration |
-| `POST` | `/login` | Temporarily accepts any valid email and non-empty password |
-| `POST` | `/predict` | Classifies a transaction |
+| Method | Endpoint   | Description                                                |
+| ------ | ---------- | ---------------------------------------------------------- |
+| `GET`  | `/`        | API status                                                 |
+| `GET`  | `/health`  | Reports API and model status                               |
+| `POST` | `/signup`  | Temporarily accepts a new user registration                |
+| `POST` | `/login`   | Temporarily accepts any valid email and non-empty password |
+| `POST` | `/predict` | Classifies a transaction                                   |
 
 ### Prediction Request
 
@@ -114,7 +114,7 @@ Example request shape:
   "V2": 0.27,
   "V3": 1.77,
   "V4": 0.38,
-  "V5": -0.50,
+  "V5": -0.5,
   "V6": 0.21,
   "V7": -0.12,
   "V8": 0.08,
