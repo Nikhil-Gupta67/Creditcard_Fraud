@@ -35,7 +35,7 @@ FraudGuard AI is a full-stack credit-card fraud detection application. It provid
 
 The dataset and generated model are excluded from Git by `.gitignore`.
 
-## Backend Setup
+## Backend Setups
 
 Open PowerShell in the repository root and run:
 
