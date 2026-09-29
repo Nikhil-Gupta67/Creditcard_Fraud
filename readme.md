@@ -12,7 +12,7 @@ FraudGuard AI is a full-stack credit-card fraud detection application. It provid
 
 ## Project Structure
 
-```text
+```texts
 .
 ├── backend/
 │   ├── main.py                 # FastAPI application
