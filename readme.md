@@ -48,7 +48,7 @@ pip install -r reqirements.txt
 uvicorn main:app --reload
 ```
 
-The API will be available at:
+The APIs will be available at:
 
 - http://127.0.0.1:8000
 - Swagger UI: http://127.0.0.1:8000/docs
