@@ -80,7 +80,7 @@ npm run lint      # Run ESLint
 
 The frontend currently calls the backend at `http://127.0.0.1:8000`. The backend CORS configuration allows the default Vite development origins.
 
-## Retraining the Model
+## Retraining the Models
 
 Place the dataset at `backend/dataset/creditcard.csv`, then run the training script from the repository root:
 
