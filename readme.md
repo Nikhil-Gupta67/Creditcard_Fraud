@@ -59,7 +59,7 @@ Run Uvicorn from the `backend` directory so the relative model path resolves cor
 
 ## Frontend Setups
 
-In a second PowerShell window:
+In a second PowerShell windows:
 
 ```powershell
 cd frontend
