@@ -57,7 +57,7 @@ The APIs will be available at:
 
 Run Uvicorn from the `backend` directory so the relative model path resolves correctly.
 
-## Frontend Setup
+## Frontend Setups
 
 In a second PowerShell window:
 
