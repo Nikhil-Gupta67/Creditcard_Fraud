@@ -91,7 +91,7 @@ python ml\train_model.py
 
 The script evaluates a logistic regression model and saves the result to `backend/model/fraud_model.pkl`.
 
-## API Endpoints
+## APIs Endpoints
 
 | Method | Endpoint   | Description                                                |
 | ------ | ---------- | ---------------------------------------------------------- |
