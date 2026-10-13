@@ -101,7 +101,7 @@ The script evaluates a logistic regression model and saves the result to `backen
 | `POST` | `/login`   | Temporarily accepts any valid email and non-empty password |
 | `POST` | `/predict` | Classifies a transaction                                   |
 
-### Prediction Request
+### Prediction Requests
 
 `POST /predict` requires a JSON object containing `Time`, `Amount`, and all fields from `V1` to `V28`. Values must be numeric and `Amount` cannot be negative.
 
