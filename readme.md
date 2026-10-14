@@ -153,4 +153,4 @@ You can use the example payload from the Swagger UI to test the endpoint.
 
 ## License
 
-No license has been specified for this project.
+No license has been specified for this project
