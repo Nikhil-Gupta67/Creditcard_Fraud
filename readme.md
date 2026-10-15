@@ -140,7 +140,7 @@ Example request shape:
   "V28": 0.01,
   "Amount": 149.62
 }
-```
+`
 
 You can use the example payload from the Swagger UI to test the endpoint.
 
