@@ -2,7 +2,7 @@
 
 FraudGuard AI is a full-stack credit-card fraud detection application. It provides a React dashboard for submitting transactions and a FastAPI backend that uses a scikit-learn logistic regression model to classify transactions as legitimate or fraudulent.
 
-## Features
+## Feature
 
 - Analyze credit card transactions with `Time`, `Amount`, and PCA features `V1` through `V28`
 - View prediction confidence and transaction results in the dashboard
