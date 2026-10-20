@@ -61,7 +61,7 @@ Run Uvicorn from the `backend` directory so the relative model path resolves cor
 
 In a second PowerShell windows:
 
-```powershell
+```powershells
 cd frontend
 npm install
 npm run dev
