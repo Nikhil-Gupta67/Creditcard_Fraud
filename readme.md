@@ -109,7 +109,6 @@ Example request shape:
 
 ```json
 {
-  "Time": 406.0,
   "V1": -1.35,
   "V2": 0.27,
   "V3": 1.77,
